@@ -1,4 +1,18 @@
 .App {
-    font-family: sans-serif;
-    text-align: center;
-  }
+  font-family: "Sofia", sans-serif;
+  text-shadow: 1.2px 0.8px 0.8px #ababab;
+  text-align: center;
+  font-size: larger; 
+ 
+}
+
+.card {
+  font-family: "sans-serif" ;
+  text-shadow: 0.5px 0.8px 0.8px #ababab;
+  display: inline-block;
+  width: 20%;
+  border: 0.5px solid rgb(255, 255, 255);
+  text-align: center;
+   
+}
+
